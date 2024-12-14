@@ -2313,10 +2313,10 @@
        <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
-            <a href="https://github.com/Yarob50">
-                <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
+            <a href="https://github.com/SuL6aN502">
+                <img src="https://avatars.githubusercontent.com/u/127731113?v=4" width="50">
                 <br>
-                <h2>يعرُب المصطفى</h2>
+                <h2>سلطان الدوسري</h2>
             </a>
             <br>            
             <table>
